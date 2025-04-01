@@ -1,0 +1,11 @@
+system_variability:
+  nodes:
+    node1:
+      from: "my_awesome2_pkg.awesome2_node"
+      parameters:
+        - double_param: "awesome2::awesome2_double_param"
+          variable values: [1.1,2.2]
+        - integer_param: "awesome2::awesome2_integer_param"
+          variable values: [1,2,3,4,5,6]
+        - hi: "awesome2::awesome2_string_param"
+          variable values: [hello, hola, hallo]
