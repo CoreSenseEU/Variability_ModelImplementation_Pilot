@@ -28,3 +28,9 @@ To start the application you can easily right click the project "eu.coresense.va
 Then please follow the RosTooling instructions to import the base objects: [RosTooling setup](https://ipa320.github.io/RosTooling.github.io/docu/Environment_setup.html#1-switch-to-the-ros-developer-perspective).
 
 You can import then, the exmaple from this repository.
+
+## Acknowledgement
+
+<img src="https://github.com/user-attachments/assets/b11da974-9201-4f79-902e-c9c20e8aa7a4" alt="Funded by the European Union" width="240"/>
+
+This work has received funding from the European Union's Horizon Europe research and innovation programme under grant agreement No 101070254 ([CORESENSE](https://coresense.eu)). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission. Neither the European Union nor the granting authority can be held responsible for them.
